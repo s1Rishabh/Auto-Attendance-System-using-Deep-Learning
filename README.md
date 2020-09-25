@@ -4,3 +4,8 @@ Extraction of features is carried out by CNN backend layers. It filters the feat
 
 
 ![](pics/IMG_3872.jpg)
+![](pics/face_api_train.jpg)
+![](pics/face_api_test.jpg)
+![](pics/school.jpg)
+![](pics/IMG_3872.jpg)
+![](pics/IMG_3872.jpg)
