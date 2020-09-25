@@ -3,4 +3,4 @@ We propose to identify the individuals by comparing their input images with that
 Extraction of features is carried out by CNN backend layers. It filters the feature maps stacked over each other. The combination of convolutional and pooling layers combined together results in better accuracy.
 
 
-![](pics/filename IMG_3872.jpg)
+![](pics/IMG_3872.jpg)
